@@ -20,4 +20,4 @@ Because this is mainly played as a group game at a couch or table, code is share
 
 ## Other
 
-Check out my getbillboardhits repo if you want to pull down other billboard charts. The code is a bit messy since I really only needed to pull this down once and you can grab my song file, but may be useful if you want hits from another genre or want to try and replace spotify with another streming service for the URLs.
+Check out my [getbillboardhits(https://github.com/stevehollx/billboard-hits) repo if you want to pull down other billboard charts. The code is a bit messy since I really only needed to pull this down once and you can grab my resulting song file instead, but this capability may be useful if you want hits from another genr or country chart, or want to try and replace spotify with another streming service for the URLs.

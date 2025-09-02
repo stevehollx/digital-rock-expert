@@ -1,6 +1,6 @@
 # digital-rock-expert
 
-Use a list of songs and spotify URLs to play a song guessing game digitally.
+Use a list of songs and spotify URLs to play a song guessing game digitally. This is inspired by the board game Hitster, but uses a different song list (US Rock Billboard charts) and plays 100% digitally without any cards, so it offers a complete novel experience from what they sell as a physical board game.
 
 I use this to play with family, groups, and parties where we guess rock songs, since paid commercial versions of this game are focused on pop music.
 
